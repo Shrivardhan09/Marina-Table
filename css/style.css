@@ -13,30 +13,6 @@ body {
   object-fit: contain;
 }
 
-/* .flex {
-  background-color: plum;
-  display: flex;
-}
-.flex ul {
-  display: flex;
-  gap: 10px;
-  justify-content: space-between;
-  width: 80vw;
-  padding: 10px;
-  margin: 10px;
-}
-.flex ul a li {
-  list-style: none;
-}
-.flex ul a {
-  text-decoration: none;
-  color: black;
-}
-.flex ul a:hover {
-  cursor: pointer;
-  color: white;
-} */
-
 .version {
   margin: 0px 20px;
   text-align: center;
