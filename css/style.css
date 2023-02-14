@@ -1,0 +1,81 @@
+body {
+  margin: 10px 0px 0px 65px;
+  width: 85vw;
+  height: auto;
+  border: 1px solid black;
+}
+.header {
+  background-color: plum;
+  color: black;
+  padding: 10px;
+}
+.img {
+  object-fit: contain;
+}
+
+/* .flex {
+  background-color: plum;
+  display: flex;
+}
+.flex ul {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  width: 80vw;
+  padding: 10px;
+  margin: 10px;
+}
+.flex ul a li {
+  list-style: none;
+}
+.flex ul a {
+  text-decoration: none;
+  color: black;
+}
+.flex ul a:hover {
+  cursor: pointer;
+  color: white;
+} */
+
+.version {
+  margin: 0px 20px;
+  text-align: center;
+}
+
+.underline {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+  color: plum;
+  cursor: pointer;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+table th {
+  width: 25%;
+}
+
+table td a {
+  color: black;
+  text-decoration: none;
+}
+
+.reveiw-t-w {
+  width: 20%;
+  text-align: center;
+  padding: 10px;
+}
+
+.a-h:hover {
+  color: white;
+  text-decoration: none;
+}
